@@ -48,13 +48,27 @@ color: #FFFFFF;
     font-weight: bold;
     font-size: 36px;
     line-height: 49px;
-    text-align: center;
     color: #162C38;
     position: center;
     width: 420px;
     height: 70px;
     background: #FFFFFF;
     border-radius: 5px;
-    margin-left: 300px;
+    
 
+}
+.button{
+    text-align: center;
+}
+
+.bg-h2{
+    background: #162C38;
+    padding: 133px 0;
+    padding-left: 370px;
+    padding-right: 340px;
+    
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
 }
